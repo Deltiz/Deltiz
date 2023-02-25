@@ -2,7 +2,7 @@
   
 Hi there! I'm Adam Wretfors, a computer science trainee with a passion for game development. I'm constantly seeking to enhance my skills and knowledge in C++ programming, and I'm excited to be part of the Github community where I can collaborate and learn from others in the field.
 
-:mailbox: Reach me out!
+:mailbox: Reach out!
 
 
 
@@ -12,7 +12,7 @@ Hi there! I'm Adam Wretfors, a computer science trainee with a passion for game 
 - :computer: 
 - 👷 I’m looking for a summer internship
 - 📫 How to reach me: Adamwretfors@hotmail.se
-- ⚡ Fun fact: I play Ishockey and practice muay thai
+- ⚡ Fun fact: I play ice hockey and practice muay thai
 
 #### Top Technologies
 
