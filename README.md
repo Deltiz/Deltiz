@@ -6,11 +6,7 @@
 
 
 
-<!-- TODO: Add last video link -->
 
-- :man_student: I am currently studying at Karlstad University
-- :computer: 
-- 👷 I’m looking for a summer internship
 - 📫 How to reach me: Adamwretfors@hotmail.se
 - ⚡ Fun fact: I play ice hockey and practice muay thai
 
