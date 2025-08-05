@@ -20,26 +20,16 @@
 ## 🧰 Tech Stack
 | Category | Tools & Frameworks |
 |----------|--------------------|
-| **DevOps / Cloud** | Docker · Kubernetes · Terraform · GitHub Actions · Azure · AWS |
+| **DevOps / Cloud** | Docker · Kubernetes · Terraform · GitHub Actions · Azure |
 | **Backend** | Python · Node.js · Java · REST · GraphQL |
 | **Game Dev** | Unity (C#) · Unreal Engine (C++) |
-| **Frontend** | HTML · CSS · JavaScript · React |
 | **Databases** | MySQL · PostgreSQL |
 | **Misc** | Linux · Bash · Figma |
-
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deltiz&show_icons=true&theme=default" alt="Adam's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deltiz&layout=compact" alt="Top languages" />
-</p>
-
 ---
 
 ## 📫 Contact
 <p align="left">
-  <a href="mailto:adamwretfors@hotmail.se"><img src="https://img.shields.io/badge/Email-adamwretfors@hotmail.se-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://discordapp.com/users/Deelta#3626"><img src="https://img.shields.io/badge/Discord-Deelta%233626-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <!-- Add LinkedIn / Twitter if you have them -->
 </p>
